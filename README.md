@@ -107,4 +107,4 @@ Document highlighting and auto-summarization
 
 
 Open it locally deployed via Netlify
-https://tenderlens.netlify.app/
+https://tenderlenss.netlify.app/
