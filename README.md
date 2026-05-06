@@ -107,4 +107,4 @@ Document highlighting and auto-summarization
 
 
 Open it locally deployed via Netlify
-https://spiffy-selkie-ac4b17.netlify.app/
+https://tenderlens.netlify.app/
