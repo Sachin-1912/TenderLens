@@ -1,5 +1,6 @@
 🚀 AI-Powered Tender Evaluation & Priority Queue System
-📌 Overview                                                                                                                                                                     This project is a prototype of an AI-powered tender evaluation system designed to streamline and standardize government procurement processes, particularly for CRPF.
+📌 Overview                                                                                                                                                                     
+This project is a prototype of an AI-powered tender evaluation system designed to streamline and standardize government procurement processes, particularly for CRPF.
 
 The system automates the extraction, validation, and ranking of bidder submissions against tender eligibility criteria, reducing manual effort, improving consistency, and ensuring transparency.
 
@@ -103,3 +104,7 @@ Document highlighting and auto-summarization
 🎯 Improved decision accuracy
 🔍 Enhanced transparency & auditability
 🏛 Scalable for real-world government use
+
+
+Open it locally deployed via Netlify
+https://spiffy-selkie-ac4b17.netlify.app/
