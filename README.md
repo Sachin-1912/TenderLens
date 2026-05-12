@@ -1,6 +1,6 @@
 🚀 AI-Powered Tender Evaluation & Priority Queue System
 📌 Overview                                                                                                                                                                     
-This project is a prototype of an AI-powered tender evaluation system designed to streamline and standardize government procurement processes, particularly for CRPF.
+This project is a prototype of an AI powered tender evaluation system designed to streamline and standardize government procurement processes, particularly for CRPF.
 
 The system automates the extraction, validation, and ranking of bidder submissions against tender eligibility criteria, reducing manual effort, improving consistency, and ensuring transparency.
 
